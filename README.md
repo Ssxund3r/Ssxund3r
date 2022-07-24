@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**Ssxund3r/Ssxund3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Gabriel Costa 
 
-Here are some ideas to get you started:
+Estudante em ADS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atuo como QA | Automação de testes.
+
+Meu foco atualmente, está nos estudos e desenvolvimento de sistemas web com ecossistema da linguagem de programação Java. 🧉
+
+
+<div>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ssxund3r&show_icons=true&theme=tokyonight" />
+  
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssxund3r&layout=compact&theme=tokyonight" />
+
+</div>
