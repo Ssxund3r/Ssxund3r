@@ -1,5 +1,5 @@
 
-Sou Gabriel Costa 🧉
+Sou Gabriel Costa 
 
 Estudante em ADS.
 
