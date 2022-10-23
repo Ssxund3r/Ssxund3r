@@ -5,7 +5,7 @@ Estudante em ADS.
 
 Atuo como QA | Automação de testes.
 
-Meu foco atualmente, está no estudo e desenvolvimento de sistemas web, com a linguagem de programação Java e seus frameworks. 
+Meu foco atualmente, está no estudo e desenvolvimento de sistemas web, com a linguagem de programação Java. 
 
 
 <div>
